@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeferson117
-- 👀 I’m interested in VideoGames & <Coding>
-- 🌱 I’m currently learning English (I´m Colombian), Software  Development
+- 👀 I’m interested in games development
+- 🌱 I’m currently learning English (I´m Colombian), & Software  Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: patinoyeferson4gmail.com Phone number: (+57)313 5483827
 
